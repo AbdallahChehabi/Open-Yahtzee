@@ -1,0 +1,100 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        body {
+background-color : rgb(191, 202, 250);
+text-align: center;
+}
+
+h1 {
+color: black;
+font-style: oblique;
+font-size: 225%;
+}
+
+#new {
+float: left;
+font-style: oblique;
+color: red; 
+}
+
+#help {
+float: right;
+font-style: oblique;
+color: red;
+}
+
+#ex {
+    font-size: 90%;
+}
+
+#de1 img{
+    width: 40px;
+    height: 40px;
+}
+
+#de2 img{
+width: 40px;
+height: 40px;
+}
+
+#de3 img{
+widows: 40px;
+height: 40px;
+}
+
+#de4 img{
+width: 40px;
+height: 40px;
+}
+
+#de5 img{
+width: 40px;
+height: 40px;
+}
+
+.s_h{
+	float: left;
+	width: 25%;
+    background-color: rgb(246, 239, 206);
+    text-align: left;
+}
+ 
+.s_b{
+    float: right;
+	width: 25%;
+    background-color: rgb(246, 239, 206);
+    text-align: left;
+}
+
+#btn {
+font-weight: bold;
+font-size: 145%;
+height: 30px;
+width: 180px;
+color: rgb(247, 231, 10);
+background: rgb(241, 79, 15);
+}
+
+#yahtzee {
+color: red;
+}
+
+#res {
+border: 1px solid rgb(211, 55, 55);
+font-style: oblique;
+width: 520px;
+margin: auto;
+}
+
+#regle {
+border: 1px solid rgb(211, 55, 55);
+font-style: italic;
+color: rgb(53, 52, 52);
+}
+
+#dev {
+color:blue;
+}
+
+#dices {
+    text-align : center;
+    display : inline-block;
+}
